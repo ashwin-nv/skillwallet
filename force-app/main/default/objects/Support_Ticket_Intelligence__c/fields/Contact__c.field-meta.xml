@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>Contact</label>
+    <referenceTo>Contact</referenceTo>
+    <relationshipLabel>Support Tickets</relationshipLabel>
+    <relationshipName>Contact_Support_Tickets</relationshipName>
+    <type>Lookup</type>
+</CustomField>
